@@ -5,7 +5,7 @@
   "description": "Adds ability to climb ladders and vines with JUMP key, sililar to MC1.14+.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://github.com/Blue-Beaker/climbable",
+  "url": "https://github.com/Blue-Beaker/climbable-mc",
   "updateUrl": "",
   "authorList": ["Blue_Beaker"],
   "credits": "",
